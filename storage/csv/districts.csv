@@ -1,0 +1,251 @@
+﻿NUTS1;NUTS2;NUTS3;DISTRICT_CODE;SUB_DISTRICT_CODE_STATA;SUB_DISTRICT_CODE_VIE;NAME_STATA;NAME_VIE
+AT1;AT13;AT130;90100;9010101;90101;Altstadt-Ost;Altstadt-Ost
+AT1;AT13;AT130;90100;9010102;90102;Stubenviertel;Stubenviertel
+AT1;AT13;AT130;90100;9010103;90103;Opernviertel;Opernviertel
+AT1;AT13;AT130;90100;9010104;90104;Regierungsviertel;Regierungsviertel
+AT1;AT13;AT130;90100;9010105;90105;Börseviertel;Börseviertel
+AT1;AT13;AT130;90100;9010106;90106;Altstadt-West;Altstadt-West
+AT1;AT13;AT130;90100;9010107;90107;Altstadt-Mitte;Altstadt-Mitte
+AT1;AT13;AT130;90200;9020101;90201;Nordbahnhof;Nordbahnhof
+AT1;AT13;AT130;90200;9020102;90202;Am Tabor;Alliiertenviertel - Volkertviertel (Am Tabor)
+AT1;AT13;AT130;90200;9020103;90203;Augartenviertel;Augartenviertel
+AT1;AT13;AT130;90200;9020104;90204;Taborstraße;Taborstraße
+AT1;AT13;AT130;90200;9020105;90205;Praterstraße;Praterstraße
+AT1;AT13;AT130;90200;9020106;90206;Oberer Prater;Oberer Prater
+AT1;AT13;AT130;90200;9020107;90207;Ausstellungsstraße;Stuwerviertel (Ausstellungsstraße)
+AT1;AT13;AT130;90200;9020108;90208;Unterer Prater;Unterer Prater
+AT1;AT13;AT130;90200;9020109;90209;Praterlände;Praterlände
+AT1;AT13;AT130;90200;9020110;90210;noname (9020110);Freudenauer Hafen
+AT1;AT13;AT130;90300;9030101;90301;Weißgerber ;Weißgerber 
+AT1;AT13;AT130;90300;9030102;90302;Landstraße;Landstraße
+AT1;AT13;AT130;90300;9030103;90303;Belvedere - Diplomatenviertel;Belvedere - Diplomatenviertel
+AT1;AT13;AT130;90300;9030104;90304;Fasangasse;Fasangasse
+AT1;AT13;AT130;90300;9030105;90305;Rudolfstiftung - Rennwegkaserne;Rudolfstiftung - ehem. Rennwegkaserne
+AT1;AT13;AT130;90300;9030106;90306;Erdberg;Erdberg
+AT1;AT13;AT130;90300;9030107;90307;Erdberger Mais - St. Marx;Erdberger Mais - St. Marx
+AT1;AT13;AT130;90300;9030108;90308;Arsenal;Arsenal
+AT1;AT13;AT130;90300;9030109;90309;Ungargasse;Ungargasse
+AT1;AT13;AT130;90300;9030110;90310;Altes Gaswerk;Erdberger Lände - Altes Gaswerk
+AT1;AT13;AT130;90300;9030111;90311;Wildganshof;Eurogate - Wildganshof - Friedhof St. Marx
+AT1;AT13;AT130;90400;9040101;90401;Technische Hochschule;Technische Universität
+AT1;AT13;AT130;90400;9040102;90402;Argentinierstraße;Argentinierstraße
+AT1;AT13;AT130;90400;9040103;90403;Wiedner Hauptstraße;Wiedner Hauptstraße
+AT1;AT13;AT130;90400;9040104;90404;Schaumburgergrund;Schaumburgergrund
+AT1;AT13;AT130;90500;9050101;90501;Margaretenplatz;Margaretenplatz
+AT1;AT13;AT130;90500;9050102;90502;Matzleinsdorf;Matzleinsdorf
+AT1;AT13;AT130;90500;9050103;90503;Siebenbrunnenplatz;Siebenbrunnenplatz
+AT1;AT13;AT130;90500;9050104;90504;Am Hundsturm;Am Hundsturm
+AT1;AT13;AT130;90600;9060101;90601;Laimgrube;Laimgrube
+AT1;AT13;AT130;90600;9060102;90602;Mollardgasse;Mollardgasse
+AT1;AT13;AT130;90600;9060103;90603;Stumpergasse;Stumpergasse
+AT1;AT13;AT130;90700;9070101;90701;St. Ulrich;St. Ulrich
+AT1;AT13;AT130;90700;9070102;90702;Stiftskaserne;Stiftskaserne
+AT1;AT13;AT130;90700;9070103;90703;Apollogasse;Apollogasse
+AT1;AT13;AT130;90700;9070104;90704;Schottenfeld;Schottenfeld
+AT1;AT13;AT130;90700;9070105;90705;Neustiftgasse;Neustiftgasse
+AT1;AT13;AT130;90800;9080101;90801;Laudongasse;Laudongasse
+AT1;AT13;AT130;90800;9080102;90802;Josefstädter Straße;Josefstädter Straße
+AT1;AT13;AT130;90800;9080103;90803;Bennoplatz;Bennoplatz
+AT1;AT13;AT130;90900;9090101;90901;Lichtental - Spittelau;Lichtental - Spittelau
+AT1;AT13;AT130;90900;9090102;90902;Roßau;Roßau
+AT1;AT13;AT130;90900;9090103;90903;Allgemeines Krankenhaus;Allgemeines Krankenhaus
+AT1;AT13;AT130;90900;9090104;90904;Nußdorferstr. - Volksoper;Nußdorferstr. - Volksoper - Sobieskiplatz
+AT1;AT13;AT130;90900;9090105;90905;Liechtensteinstraße;Liechtensteinstraße
+AT1;AT13;AT130;90900;9090106;90906;Universitätsviertel;Votivkirche - Altes AKH - Universitätsviertel
+AT1;AT13;AT130;91000;9100101;91001;Südbahnhof;Hauptbahnhof - Sonnwendviertel
+AT1;AT13;AT130;91000;9100102;91002;Gellertplatz;Gellertplatz
+AT1;AT13;AT130;91000;9100103;91003;Hebbelplatz;Hebbelplatz
+AT1;AT13;AT130;91000;9100104;91004;Quellenplatz;Quellenplatz
+AT1;AT13;AT130;91000;9100105;91005;Arthaberplatz;Arthaberplatz
+AT1;AT13;AT130;91000;9100106;91006;Erlachplatz;Erlachplatz
+AT1;AT13;AT130;91000;9100107;91007;Belgradplatz;Belgradplatz
+AT1;AT13;AT130;91000;9100108;91008;Triester Straße;Triester Straße
+AT1;AT13;AT130;91000;9100109;91009;Franz Josef-Spital;Franz-Josef-Spital
+AT1;AT13;AT130;91000;9100110;91010;Neerwindenplatz - Raxstraße;Neerwindenplatz - Raxstraße
+AT1;AT13;AT130;91000;9100111;91011;Heuberggstätten;Heuberggstätten
+AT1;AT13;AT130;91000;9100112;91012;noname (9100112);Wienerberg West
+AT1;AT13;AT130;91000;9100113;91013;Siedlung Wienerfeld;Siedlung Wienerfeld
+AT1;AT13;AT130;91000;9100114;91014;Per Albin Hansson-NW;Per-Albin-Hansson-Siedlung Nord
+AT1;AT13;AT130;91000;9100115;91015;Laaer Berg;Laaer Berg
+AT1;AT13;AT130;91000;9100116;91016;Goldberg;Therme Wien - Kurpark - Goldberg
+AT1;AT13;AT130;91000;9100117;91017;Unterlaa;Unterlaa
+AT1;AT13;AT130;91000;9100118;91018;Oberlaa;Oberlaa
+AT1;AT13;AT130;91000;9100119;91019;Rothneusiedl;Rothneusiedl
+AT1;AT13;AT130;91000;9100120;91020;Per Albin Hansson-Ost;Per-Albin-Hansson-Siedlung Ost
+AT1;AT13;AT130;91000;9100121;91021;Wienerberger Ziegelfabrik;Wienerberg Ost - Otto-Probst-Straße
+AT1;AT13;AT130;91000;9100122;91022;Humboldtplatz;Humboldtplatz
+AT1;AT13;AT130;91000;9100123;91023;Eisenstadtplatz;Eisenstadtplatz
+AT1;AT13;AT130;91100;9110101;91101;Gaswerk Simmering;Gasometer
+AT1;AT13;AT130;91100;9110102;91102;Alt-Simmering;Alt-Simmering
+AT1;AT13;AT130;91100;9110103;91103;Enkplatz;Enkplatz
+AT1;AT13;AT130;91100;9110104;91104;Geiselberg;Geiselberg
+AT1;AT13;AT130;91100;9110105;91105;Hasenleiten;Hasenleiten
+AT1;AT13;AT130;91100;9110106;91106;Zentralfriedhof;Zentralfriedhof
+AT1;AT13;AT130;91100;9110107;91107;Oberer Simmeringer Haide;Oberer Simmeringer Haide
+AT1;AT13;AT130;91100;9110108;91108;E-Werk Simmering;E-Werk Simmering
+AT1;AT13;AT130;91100;9110109;91109;Untere Simmeringer Haide;Untere Simmeringer Haide
+AT1;AT13;AT130;91100;9110110;91110;Leberberg;Leberberg
+AT1;AT13;AT130;91100;9110111;91111;Kaiser-Ebersdorf;Kaiserebersdorf
+AT1;AT13;AT130;91100;9110112;91112;Albern;Albern
+AT1;AT13;AT130;91100;9110113;91113;Simmeringer Bad;Simmeringer Bad
+AT1;AT13;AT130;91200;9120101;91201;Gaudenzdorf;Gaudenzdorf
+AT1;AT13;AT130;91200;9120102;91202;Fuchsenfeld;Fuchsenfeld
+AT1;AT13;AT130;91200;9120103;91203;Meidlinger Friedhof;Meidlinger Friedhof
+AT1;AT13;AT130;91200;9120104;91204;Wilhelmsdorf;Wilhelmsdorf
+AT1;AT13;AT130;91200;9120105;91205;Meidlinger Hauptstraße;Meidlinger Hauptstraße
+AT1;AT13;AT130;91200;9120106;91206;Tivoligasse;Tivoligasse
+AT1;AT13;AT130;91200;9120107;91207;Gatterhölzl;Gatterhölzl
+AT1;AT13;AT130;91200;9120108;91208;Oswaldgasse;Johann-Hoffmann-Platz - Euro Plaza 
+AT1;AT13;AT130;91200;9120109;91209;Am Schöpfwerk;Am Schöpfwerk
+AT1;AT13;AT130;91200;9120110;91210;Altmannsdorf;Altmannsdorf
+AT1;AT13;AT130;91200;9120111;91211;Hetzendorf;Hetzendorf
+AT1;AT13;AT130;91300;9130101;91301;Schönbrunn;Schönbrunn
+AT1;AT13;AT130;91300;9130102;91302;Hietzing;Hietzing
+AT1;AT13;AT130;91300;9130103;91303;Auhofstraße;Auhofstraße
+AT1;AT13;AT130;91300;9130104;91304;Ober St. Veit;Ober St. Veit
+AT1;AT13;AT130;91300;9130105;91305;Gemeindeberg - Jagdschloßgasse;Gemeindeberg - Jagdschloßgasse
+AT1;AT13;AT130;91300;9130106;91306;Lainz;Lainz
+AT1;AT13;AT130;91300;9130107;91307;Maxing;Maxing
+AT1;AT13;AT130;91300;9130108;91308;Speising;Speising
+AT1;AT13;AT130;91300;9130109;91309;Altersheim Lainz;Geriatriezentrum Am Wienerwald
+AT1;AT13;AT130;91300;9130110;91310;Lainzer Tiergarten;Lainzer Tiergarten
+AT1;AT13;AT130;91300;9130111;91311;Friedensstadt;Friedensstadt
+AT1;AT13;AT130;91400;9140101;91401;Breitensee;Breitensee
+AT1;AT13;AT130;91400;9140102;91402;An der Windmühle;Reinlgasse - An der Windmühle
+AT1;AT13;AT130;91400;9140103;91403;Penzing;Penzing
+AT1;AT13;AT130;91400;9140104;91404;Unter-Baumgarten;Unter-Baumgarten
+AT1;AT13;AT130;91400;9140105;91405;Am Ameisbach;Am Ameisbach
+AT1;AT13;AT130;91400;9140106;91406;Ober-Baumgarten;Ober-Baumgarten
+AT1;AT13;AT130;91400;9140107;91407;Hugo Breitner-Hof;Hugo-Breitner-Hof
+AT1;AT13;AT130;91400;9140108;91408;Baumgartner Friedhof - Flötzersteig;Baumgartner Friedhof - Flötzersteig
+AT1;AT13;AT130;91400;9140109;91409;Am Steinhof;Am Steinhof
+AT1;AT13;AT130;91400;9140110;91410;Hütteldorf;Hütteldorf
+AT1;AT13;AT130;91400;9140111;91411;Wolfersberg;Wolfersberg
+AT1;AT13;AT130;91400;9140112;91412;Hadersdorf - Weidlingau;Hadersdorf - Weidlingau
+AT1;AT13;AT130;91500;9150101;91501;Stadthalle;Stadthalle - Nibelungenviertel
+AT1;AT13;AT130;91500;9150102;91502;Reithofferplatz;Reithofferplatz
+AT1;AT13;AT130;91500;9150103;91503;Fünfhaus - Westbahnhof;Fünfhaus - Westbahnhof
+AT1;AT13;AT130;91500;9150104;91504;Sechshaus;Sechshaus
+AT1;AT13;AT130;91500;9150105;91505;Rudolfsheim - Braunhirschen;Rudolfsheim - Braunhirschen
+AT1;AT13;AT130;91500;9150106;91506;Rauscherplatz;Johnstraße - Kardinal-Rauscher-Platz
+AT1;AT13;AT130;91500;9150107;91507;Schmelz;Auf der Schmelz
+AT1;AT13;AT130;91600;9160101;91601;Neulerchenfeld;Neulerchenfeld
+AT1;AT13;AT130;91600;9160102;91602;Ludo-Hartmann-Platz;Ludo-Hartmann-Platz
+AT1;AT13;AT130;91600;9160103;91603;Herbststraße - Vorortelinie;Herbststraße - Bahnhof Ottakring
+AT1;AT13;AT130;91600;9160104;91604;Alt-Ottakring;Alt-Ottakring
+AT1;AT13;AT130;91600;9160105;91605;Wilhelminenstraße;Wilhelminenstraße
+AT1;AT13;AT130;91600;9160106;91606;Sandleiten;Sandleiten
+AT1;AT13;AT130;91600;9160107;91607;Joachimsthalerplatz;Joachimsthalerplatz
+AT1;AT13;AT130;91600;9160108;91608;Wilhelminenspital;Wilhelminenspital
+AT1;AT13;AT130;91600;9160109;91609;Wilhelminenberg;Wilhelminenberg
+AT1;AT13;AT130;91600;9160110;91610;Richard Wagner-Platz;Richard-Wagner-Platz
+AT1;AT13;AT130;91700;9170101;91701;Dornerplatz;Dornerplatz
+AT1;AT13;AT130;91700;9170102;91702;Alt-Hernals;Alt-Hernals
+AT1;AT13;AT130;91700;9170103;91703;Äußere Hernalser Hauptstraße;Äußere Hernalser Hauptstraße
+AT1;AT13;AT130;91700;9170104;91704;Alszeile;Alszeile
+AT1;AT13;AT130;91700;9170105;91705;Dornbach;Dornbach
+AT1;AT13;AT130;91700;9170106;91706;Neuwaldegg;Neuwaldegg
+AT1;AT13;AT130;91800;9180101;91801;Währinger Cottage;Währinger Cottage
+AT1;AT13;AT130;91800;9180102;91802;Gentzgasse;Gentzgasse
+AT1;AT13;AT130;91800;9180103;91803;Kreutzgasse;Kreutzgasse
+AT1;AT13;AT130;91800;9180104;91804;Gersthof;Gersthof
+AT1;AT13;AT130;91800;9180105;91805;Pötzleinsdorf;Pötzleinsdorf
+AT1;AT13;AT130;91900;9190101;91901;Nußdorf - Kahlenbergerdorf;Nußberg - Kahlenbergerdorf
+AT1;AT13;AT130;91900;9190102;91902;Karl Marx-Hof;Karl-Marx-Hof
+AT1;AT13;AT130;91900;9190103;91903;Heiligenstädter Lände;Heiligenstädter Lände
+AT1;AT13;AT130;91900;9190104;91904;Döblinger Hauptstraße;Döblinger Hauptstraße
+AT1;AT13;AT130;91900;9190105;91905;Hohe Warte;Hohe Warte
+AT1;AT13;AT130;91900;9190106;91906;Grinzing;Grinzing
+AT1;AT13;AT130;91900;9190107;91907;Sievering;Sievering
+AT1;AT13;AT130;91900;9190108;91908;In der Krim;In der Krim
+AT1;AT13;AT130;91900;9190109;91909;Döblinger Cottage;Döblinger Cottage
+AT1;AT13;AT130;91900;9190110;91910;Glanzing - Salmannsdorf;Glanzing - Salmannsdorf
+AT1;AT13;AT130;92000;9200101;92001;Kapaunplatz;Kapaunplatz
+AT1;AT13;AT130;92000;9200102;92002;Zwischenbrücken;Zwischenbrücken
+AT1;AT13;AT130;92000;9200103;92003;Brigittaplatz;Brigittaplatz
+AT1;AT13;AT130;92000;9200104;92004;Lorenz Müller-Gasse;Lorenz-Müller-Gasse
+AT1;AT13;AT130;92000;9200105;92005;Wallensteinstraße;Wallensteinstraße
+AT1;AT13;AT130;92000;9200106;92006;Wexstraße;Wexstraße
+AT1;AT13;AT130;92000;9200107;92007;Höchstädtplatz;Höchstädtplatz
+AT1;AT13;AT130;92000;9200108;92008;Nordwestbahnhof;Nordwestbahnhof
+AT1;AT13;AT130;92100;9210101;92101;Stammersdorf;Stammersdorf
+AT1;AT13;AT130;92100;9210102;92102;Stammersdorf - Brünnerstraße;Heeresspital
+AT1;AT13;AT130;92100;9210103;92103;Hirschfeld;Hirschfeld
+AT1;AT13;AT130;92100;9210104;92104;Nordrandsiedlung;Nordrandsiedlung
+AT1;AT13;AT130;92100;9210105;92105;Großfeldsiedlung;Großfeldsiedlung
+AT1;AT13;AT130;92100;9210106;92106;Leopoldau;Leopoldau
+AT1;AT13;AT130;92100;9210107;92107;Leopoldauerstraße - Siemensstraße;Siemens City
+AT1;AT13;AT130;92100;9210108;92108;Gaswerk Leopoldau;Gaswerk Leopoldau
+AT1;AT13;AT130;92100;9210109;92109;Schotterfeld;Schotterfeld - Heinz-Nittel-Hof
+AT1;AT13;AT130;92100;9210110;92110;Siedlung Siemensstraße;Siedlung Siemensstraße
+AT1;AT13;AT130;92100;9210111;92111;Groß-Jedlersdorf;Groß-Jedlersdorf
+AT1;AT13;AT130;92100;9210112;92112;Jochbergen;Ödenburger Straße
+AT1;AT13;AT130;92100;9210113;92113;Strebersdorf ;Strebersdorf 
+AT1;AT13;AT130;92100;9210114;92114;Stebersdorf-Prager Straße;Stebersdorf-Prager Straße
+AT1;AT13;AT130;92100;9210115;92115;Autokader;Autokader
+AT1;AT13;AT130;92100;9210116;92116;Schwarzlackenau;Schwarzlackenau
+AT1;AT13;AT130;92100;9210117;92117;Neu-Jedlesee;Neu-Jedlesee
+AT1;AT13;AT130;92100;9210118;92118;Alt-Jedlesee;Alt-Jedlesee
+AT1;AT13;AT130;92100;9210119;92119;Koloniestraße;Koloniestraße
+AT1;AT13;AT130;92100;9210120;92120;Shuttleworthstraße;Shuttleworthstraße
+AT1;AT13;AT130;92100;9210121;92121;Floridsdorf-Brünner Straße;Floridsdorf-Brünner Straße
+AT1;AT13;AT130;92100;9210122;92122;Floridsdorf-am Spitz;Floridsdorf-Am Spitz
+AT1;AT13;AT130;92100;9210123;92123;Donaufeld;Donaufeld-Hoßplatz
+AT1;AT13;AT130;92100;9210124;92124;Donaufeld - Leopoldauer Straße;Donaufeld-Töllergasse
+AT1;AT13;AT130;92100;9210125;92125;Donaufeld Gärtnergeb;Donaufeld-Veterinärmedizinische 
+AT1;AT13;AT130;92100;9210126;92126;Mühlschüttel;Mühlschüttel
+AT1;AT13;AT130;92100;9210127;92127;Bruckhaufen;Bruckhaufen
+AT1;AT13;AT130;92100;9210128;92128;Industriegelände - Eisenbahndreieck;Krankenhaus Nord
+AT1;AT13;AT130;92100;9210129;92129;noname (9210129);Bahnhof Jedlersdorf
+AT1;AT13;AT130;92100;9210130;92130;noname (9210129);Industriegebiet Strebersdorf
+AT1;AT13;AT130;92200;9220101;92201;Süßenbrunn;Süßenbrunn
+AT1;AT13;AT130;92200;9220102;92202;Breitenlee;Breitenlee
+AT1;AT13;AT130;92200;9220103;92203;Neu-Eßling;Neu-Eßling
+AT1;AT13;AT130;92200;9220104;92204;Schafflerhof;Schafflerhof - Himmelteich
+AT1;AT13;AT130;92200;9220105;92205;Flugfeld Aspern;Aspern Seestadt - Hausfeld
+AT1;AT13;AT130;92200;9220106;92206;Kriegerhmst. - Lackenjöchl;Pirquetgasse - Heidjöchl - Lackenjöchl
+AT1;AT13;AT130;92200;9220107;92207;Breitenleer Stadtrandsiedlung;Spargelfeldstraße - Gewerbeparks 
+AT1;AT13;AT130;92200;9220108;92208;Kagran;Kagraner Platz - Rennbahnweg - Rinterzelt
+AT1;AT13;AT130;92200;9220109;92209;Eipeldauer Straße;Eipeldauer Straße
+AT1;AT13;AT130;92200;9220110;92210;An der oberen Alten Donau;An der Oberen Alten Donau
+AT1;AT13;AT130;92200;9220111;92211;Kaisermühlen;Kaisermühlen
+AT1;AT13;AT130;92200;9220112;92212;Lettenhaufen;Lettenhaufen
+AT1;AT13;AT130;92200;9220113;92213;Zentrum Kagran;Zentrum Kagran
+AT1;AT13;AT130;92200;9220114;92214;Freihof-Siedlung;Freihof-Siedlung
+AT1;AT13;AT130;92200;9220115;92215;Wohngebiet Neu-Kagran;Wohngebiet Neu-Kagran
+AT1;AT13;AT130;92200;9220116;92216;Industriegebiet Neu-Kagran;Industriegebiet Neu-Kagran
+AT1;AT13;AT130;92200;9220117;92217;Neuhaufen;Neuhaufen
+AT1;AT13;AT130;92200;9220118;92218;Mühlgrund - Neu-Stadlau;Mühlgrund - Neu-Stadlau
+AT1;AT13;AT130;92200;9220119;92219;Stadlau;Stadlau
+AT1;AT13;AT130;92200;9220120;92220;Hirschstetten;Hirschstetten
+AT1;AT13;AT130;92200;9220121;92221;Plankenmais;Plankenmais
+AT1;AT13;AT130;92200;9220122;92222;Neu-Straßenäcker;Neu-Straßenäcker
+AT1;AT13;AT130;92200;9220123;92223;Aspern;Aspern
+AT1;AT13;AT130;92200;9220124;92224;Spargelfeld - Heustadlmais;Spargelfeld - Heustadlmais
+AT1;AT13;AT130;92200;9220125;92225;Wulzendorf;Wulzendorf
+AT1;AT13;AT130;92200;9220126;92226;Biberhaufen;Biberhaufen
+AT1;AT13;AT130;92200;9220127;92227;Eßling - Im Neuriß;Flugfeldstraße - Eßlinger Gartensiedlung
+AT1;AT13;AT130;92200;9220128;92228;Eßling;Eßling
+AT1;AT13;AT130;92200;9220129;92229;Englisch Feld;Englisch Feld
+AT1;AT13;AT130;92200;9220130;92230;noname (9220130);Lobau
+AT1;AT13;AT130;92200;9220131;92231;Industriegebiet Erzherzog Karl - Straße;STAR 22
+AT1;AT13;AT130;92200;9220132;92232;Donaupark;Donaucity - Donaupark
+AT1;AT13;AT130;92300;9230101;92301;Inzersdorf;Inzersdorf
+AT1;AT13;AT130;92300;9230102;92302;Neu-Erlaa - Hungereck;Neu-Erlaa - Hungereck
+AT1;AT13;AT130;92300;9230103;92303;Schwarze Haide;Schwarze Haide
+AT1;AT13;AT130;92300;9230104;92304;In der Wiesen;In der Wiesen
+AT1;AT13;AT130;92300;9230105;92305;Siebenhirten;Siebenhirten
+AT1;AT13;AT130;92300;9230106;92306;Industriezentrum Liesing;Industriezentrum Liesing
+AT1;AT13;AT130;92300;9230107;92307;Atzgersdorf;Atzgersdorf
+AT1;AT13;AT130;92300;9230108;92308;Industriegebiet Breitenfurter Straße;Industriegebiet Breitenfurter Straße
+AT1;AT13;AT130;92300;9230109;92309;Steinberg;Steinberg
+AT1;AT13;AT130;92300;9230110;92310;Atzgersdorf-West;Atzgersdorf-West - Höpflerbad
+AT1;AT13;AT130;92300;9230111;92311;Zentrum Liesing;Zentrum Liesing
+AT1;AT13;AT130;92300;9230112;92312;Rodaun;Rodaun
+AT1;AT13;AT130;92300;9230113;92313;Mauerberg;Mauerberg
+AT1;AT13;AT130;92300;9230114;92314;Mauer;Mauer
+AT1;AT13;AT130;92300;9230115;92315;Kroißberg;Kroißberg
+AT1;AT13;AT130;92300;9230116;92316;Kalksburg - Kaltenleutgeben;Kalksburg - Kaltenleutgeben
+AT1;AT13;AT130;92300;9230117;92317;Blumental;Blumental
+AT1;AT13;AT130;92300;9230118;92318;Draschegründe;Draschegründe
+AT1;AT13;AT130;92300;9230119;92319;Wohnpark Alt-Erlaa;Wohnpark Alt-Erlaa
