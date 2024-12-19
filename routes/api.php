@@ -10,6 +10,13 @@ use App\Http\Controllers\Api\EducationDataController;
 use App\Http\Controllers\Api\TransitStopController;
 use App\Http\Controllers\Api\AirQualityController;
 use App\Http\Controllers\Api\QualityOfLifeController;
+<<<<<<< HEAD
+=======
+use App\Http\Controllers\Api\PlaygroundController;
+use App\Http\Controllers\Api\SocialMarketController;
+use App\Http\Controllers\Api\LibraryController;
+use App\Http\Controllers\Api\PoliceStationController;
+>>>>>>> 8dbac16 (last version)
 
 Route::post('/register', [AuthController::class, 'register']);
 Route::post('/login', [AuthController::class, 'login']);
@@ -36,3 +43,22 @@ Route::post('/nearby-transit-stops', [TransitStopController::class, 'nearby']);
 Route::post('/air-quality', [AirQualityController::class, 'getAirQualityByLocation']);
 
 Route::post('/calculate-quality-of-life', [QualityOfLifeController::class, 'calculate']);
+<<<<<<< HEAD
+=======
+
+Route::get('/playgrounds', [PlaygroundController::class, 'index']);
+Route::get('/playgrounds/{id}', [PlaygroundController::class, 'show']);
+Route::post('/nearby-playgrounds', [PlaygroundController::class, 'nearby']);
+
+Route::get('/social-markets', [SocialMarketController::class, 'index']);
+Route::get('/social-markets/{id}', [SocialMarketController::class, 'show']);
+Route::post('/nearby-social-markets', [SocialMarketController::class, 'nearby']);
+
+Route::get('/libraries', [LibraryController::class, 'index']);
+Route::get('/libraries/{id}', [LibraryController::class, 'show']);
+Route::post('/nearby-libraries', [LibraryController::class, 'nearby']);
+
+Route::get('/police-stations', [PoliceStationController::class, 'index']);
+Route::get('/police-stations/{id}', [PoliceStationController::class, 'show']);
+Route::post('/nearby-police-stations', [PoliceStationController::class, 'nearby']);
+>>>>>>> 8dbac16 (last version)

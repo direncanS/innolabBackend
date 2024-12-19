@@ -14,12 +14,20 @@ class DownloadEducationData extends Command
     public function handle()
     {
         $url = 'https://www.wien.gv.at/gogv/l9ogdviebezbizeduatt2008f';
+<<<<<<< HEAD
         $filePath = 'storage/csv/education.csv';
+=======
+        $filePath = 'csv/education.csv';
+>>>>>>> 8dbac16 (last version)
 
         $response = Http::get($url);
 
         if ($response->successful()) {
+<<<<<<< HEAD
             Storage::put($filePath, $response->body());
+=======
+            Storage::disk('public')->put($filePath, $response->body());
+>>>>>>> 8dbac16 (last version)
             $this->info('Education CSV file downloaded and saved.');
         } else {
             $this->error('Failed to download the CSV file.');

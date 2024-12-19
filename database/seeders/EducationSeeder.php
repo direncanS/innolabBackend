@@ -7,17 +7,31 @@ use App\Models\EducationData;
 use App\Models\District;
 use App\Models\Subdistrict;
 use Carbon\Carbon;
+<<<<<<< HEAD
 use Illuminate\Support\Facades\Log;
+=======
+use Illuminate\Support\Facades\Artisan;
+use Illuminate\Support\Facades\Log;
+use Illuminate\Support\Facades\Storage;
+>>>>>>> 8dbac16 (last version)
 
 class EducationSeeder extends Seeder
 {
     public function run(): void
     {
+<<<<<<< HEAD
         $filePath = storage_path('csv/education.csv');
 
         if (!file_exists($filePath)) {
             $this->command->error("CSV file not found. Run 'php artisan education:download' first.");
             return;
+=======
+        $filePath = Storage::disk('public')->path('csv/education.csv');
+
+        if (!file_exists($filePath)) {
+            $output = Artisan::call('education:download');
+            $this->command->info($output);
+>>>>>>> 8dbac16 (last version)
         }
 
         $csvData = fopen($filePath, 'r');

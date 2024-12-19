@@ -22,12 +22,21 @@ class KindergartenSeeder extends Seeder
             }
 
             Kindergarten::create([
+<<<<<<< HEAD
                 'name' => $data[4],  // BEZEICHNUNG (Anaokulu Adı)
                 'address' => $data[5],  // ADRESSE (Adres)
                 'operator' => $data[4],  // BETREIBER (İşletmeci)
                 'type' => $data[7],  // TYP_TXT (Anaokulu Türü)
                 'latitude' => $this->extractLatitude($data[2]),  // SHAPE (latitude)
                 'longitude' => $this->extractLongitude($data[2]),  // SHAPE (longitude)
+=======
+                'name' => $data[4],
+                'address' => $data[5],
+                'operator' => $data[4],
+                'type' => $data[7],
+                'latitude' => $this->extractLatitude($data[2]),
+                'longitude' => $this->extractLongitude($data[2]),
+>>>>>>> 8dbac16 (last version)
             ]);
         }
         fclose($csv);
@@ -38,7 +47,11 @@ class KindergartenSeeder extends Seeder
         preg_match('/\(([^)]+)\)/', $shape, $matches);
         if (isset($matches[1])) {
             $coordinates = explode(' ', $matches[1]);
+<<<<<<< HEAD
             return isset($coordinates[1]) ? floatval($coordinates[1]) : null;  // Latitude ikinci sırada
+=======
+            return isset($coordinates[1]) ? floatval($coordinates[1]) : null;
+>>>>>>> 8dbac16 (last version)
         }
         return null;
     }
@@ -48,7 +61,11 @@ class KindergartenSeeder extends Seeder
         preg_match('/\(([^)]+)\)/', $shape, $matches);
         if (isset($matches[1])) {
             $coordinates = explode(' ', $matches[1]);
+<<<<<<< HEAD
             return isset($coordinates[0]) ? floatval($coordinates[0]) : null;  // Longitude ilk sırada
+=======
+            return isset($coordinates[0]) ? floatval($coordinates[0]) : null;
+>>>>>>> 8dbac16 (last version)
         }
         return null;
     }

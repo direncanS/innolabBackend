@@ -1,18 +1,9 @@
-<<<<<<< HEAD
-APP_NAME=Laravel
-APP_ENV=local
-APP_KEY=
-APP_DEBUG=true
-APP_TIMEZONE=UTC
-APP_URL=http://localhost
-=======
 APP_NAME=Vienna
 APP_ENV=local
 APP_KEY=base64:8j4sJ8ch8+ImBBAP2w3ojU2dR7fbu6RLABmH1o2xvG0=
 APP_DEBUG=true
 APP_TIMEZONE=UTC
 APP_URL=http://127.0.0.1:8001
->>>>>>> 8dbac16 (last version)
 
 APP_LOCALE=en
 APP_FALLBACK_LOCALE=en
@@ -28,21 +19,12 @@ LOG_STACK=single
 LOG_DEPRECATIONS_CHANNEL=null
 LOG_LEVEL=debug
 
-<<<<<<< HEAD
-DB_CONNECTION=sqlite
-# DB_HOST=127.0.0.1
-# DB_PORT=3306
-# DB_DATABASE=laravel
-# DB_USERNAME=root
-# DB_PASSWORD=
-=======
 DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
+DB_HOST=db
 DB_PORT=3306
-DB_DATABASE=vienna
-DB_USERNAME=root
-DB_PASSWORD=
->>>>>>> 8dbac16 (last version)
+DB_DATABASE=laravel
+DB_USERNAME=laravel_user
+DB_PASSWORD=laravel_password
 
 SESSION_DRIVER=database
 SESSION_LIFETIME=120

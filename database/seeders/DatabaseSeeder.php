@@ -22,8 +22,18 @@ class DatabaseSeeder extends Seeder
             ComponentSeeder::class,
             DistrictSeeder::class,
             SubdistrictSeeder::class,
+<<<<<<< HEAD
             EducationSeeder::class,
             PolygonSeeder::class,
+=======
+            SocialMarketsSeeder::class,
+            PolygonSeeder::class,
+            SocialMarketsSeeder::class,
+            EducationSeeder::class,
+            LibrariesSeeder::class,
+            PlaygroundsSeeder::class,
+            PoliceStationSeeder::class,
+>>>>>>> 8dbac16 (last version)
         ]);
     }
 }

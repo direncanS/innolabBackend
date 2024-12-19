@@ -15,7 +15,11 @@ class StationSeeder extends Seeder
 
         foreach ($stations as $station) {
             Station::updateOrCreate(
+<<<<<<< HEAD
                 ['code' => $station['code']], // Bu kod zaten varsa güncelle
+=======
+                ['code' => $station['code']],
+>>>>>>> 8dbac16 (last version)
                 [
                     'short_name' => $station['kurzname'],
                     'long_name' => $station['langname'],

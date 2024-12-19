@@ -15,7 +15,11 @@ class ComponentSeeder extends Seeder
 
         foreach ($components as $component) {
             Component::updateOrCreate(
+<<<<<<< HEAD
                 ['code' => $component['code']], // Bu kod zaten varsa güncelle
+=======
+                ['code' => $component['code']],
+>>>>>>> 8dbac16 (last version)
                 ['name' => $component['bezeichnung']]
             );
         }
